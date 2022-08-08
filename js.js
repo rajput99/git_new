@@ -1,4 +1,4 @@
 function a(){
-    console.log("hi");
+    console.log("hi","ty");
 }
 a();
